@@ -1,2 +1,2 @@
 # NFLMathematicalModels
-Mathematical model to predict NFL playoffs based on research and other factors
+Mathematical models to predict NFL playoffs through research and other factors (based on regular season)
